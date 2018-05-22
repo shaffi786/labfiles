@@ -1,0 +1,24 @@
+@charset "utf-8";
+* {
+}
+form {
+	background-color: #666;
+	width: 315px;
+}
+label {
+	background-color: #CCCCCC;
+}
+
+input {
+	background-color: #996666;
+}
+
+textarea {
+	background-color: #966;
+}
+input[type ="text"]:focus {
+	background-color: #FCF;
+}
+input[type="submit"] {
+	background-color: #CC6;
+}
